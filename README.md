@@ -1,4 +1,4 @@
-[⚠️ Suspicious Content] ## Getting Started
+## Getting Started
 
 ### Cloning the Repository
 
